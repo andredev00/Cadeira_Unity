@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6b2f72e7418f82a43bf812e270cdaa18
+timeCreated: 1563842285
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: hooge 05_54
+  fontNames:
+  - hooge 05_54
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
