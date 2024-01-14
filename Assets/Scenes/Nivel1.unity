@@ -4242,7 +4242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea77f4971ed244e4a92abc1e6904c9a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  index: 1
+  index: 2
   levelName: Nivel2
   estado: 0
   GC: {fileID: 0}

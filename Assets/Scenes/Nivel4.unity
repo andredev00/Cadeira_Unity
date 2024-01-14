@@ -1215,8 +1215,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea77f4971ed244e4a92abc1e6904c9a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  index: 1
-  levelName: Nivel3
+  index: 5
+  levelName: Nivel5
   estado: 0
   GC: {fileID: 0}
 --- !u!61 &1079755566
@@ -2569,8 +2569,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0c5bdd70d96b84bbfb2d97b8c47b06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
 --- !u!61 &1928476799
 BoxCollider2D:
   m_ObjectHideFlags: 0

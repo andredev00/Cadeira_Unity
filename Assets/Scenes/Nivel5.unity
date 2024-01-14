@@ -1681,8 +1681,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea77f4971ed244e4a92abc1e6904c9a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  index: 5
-  levelName: Nivel5
+  index: 6
+  levelName: Fim
   estado: 1
   GC: {fileID: 0}
 --- !u!212 &1287104886
@@ -1961,9 +1961,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   index: 6
-  levelName: Nivel6
+  levelName: Fim
   estado: 0
-  GC: {fileID: 0}
+  GC: {fileID: 781786643}
 --- !u!114 &1494207242
 MonoBehaviour:
   m_ObjectHideFlags: 0
