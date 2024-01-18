@@ -39,7 +39,11 @@ public class CharacterController2D : MonoBehaviour
     {
         SceneManager.LoadScene(x);
     }
-    
+    private void Update () {
+        if (Input.GetKeyDown(KeyCode.E)){
+			minhaClasse.MudaEstado(true);
+		}
+    }
 
     private void Awake()
 	{
@@ -154,22 +158,4 @@ public class CharacterController2D : MonoBehaviour
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
-
-
-    private void OnTriggerEnter2D(Collider2D other)           /*para destruir os cristais */
-    {
-        if (other.gameObject.CompareTag("crystal"))
-        {
-            Debug.Log("Destrói esta porcaria");
-            Destroy(other.gameObject);
-            minhaClasse.MudaEstado(true);
-        }
-    }
-
-    
-
-
-
-
-
 }
